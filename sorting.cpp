@@ -1,3 +1,5 @@
+//These are the few sorting algorithms i have benn working on
+
 #include <bits/stdc++.h>
 using namespace std;
 
