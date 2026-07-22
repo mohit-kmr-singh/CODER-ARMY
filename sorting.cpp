@@ -1,4 +1,4 @@
-//These are the few sorting algorithms i have benn working on
+//These are the few sorting algorithms i have benn working on GIT
 
 #include <bits/stdc++.h>
 using namespace std;
